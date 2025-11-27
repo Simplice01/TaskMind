@@ -1,12 +1,61 @@
-# React + Vite
+TaskMind – Application React de Gestion Intelligente des Tâches
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+TaskMind est une application de gestion de tâches développée entièrement avec React.
+Elle permet aux utilisateurs de créer, organiser et prioriser leurs tâches tout en bénéficiant d’un assistant intelligent pour optimiser leur journée.
 
-Currently, two official plugins are available:
+L’application ne nécessite aucune base de données : toutes les données sont stockées localement dans le navigateur, offrant une solution légère, rapide et facile à utiliser.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Fonctionnalités principales
+Gestion des tâches
 
-## Expanding the ESLint configuration
+Ajout, modification et suppression de tâches
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Gestion du statut : à faire, en cours, terminé
+
+Priorité et date d’échéance
+
+Organisation par catégories 
+
+Assistant intelligent
+
+Suggestions de priorisation
+
+Classement automatique des tâches importantes
+
+Résumé des tâches du jour
+
+Génération de sous-tâches 
+
+Stockage local
+
+Persistance des données via localStorage
+
+Récupération automatique des tâches au rechargement
+
+Fonctionnement entièrement hors-ligne
+
+Interface utilisateur
+
+Interface moderne construite avec React
+
+Composants organisés et réutilisables
+
+Navigation fluide
+
+UI responsive 
+
+Technologies utilisées
+
+React.js
+
+Vite
+
+JSX
+
+CSS ou TailwindCSS
+
+localStorage
+
+ESLint
+
+Git & GitHub
